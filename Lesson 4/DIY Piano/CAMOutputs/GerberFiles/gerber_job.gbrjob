@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-12-16T00:04:52Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Piano DIY Project Yay"
+        },
+        "Owner": "viploverahate viploverahate <viploverahate@gmail.com>",
+        "Size": {
+            "X": 92.38,
+            "Y": 41.9
+        }
+    }
+}
